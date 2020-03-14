@@ -15,7 +15,7 @@ A Colarado Board of Elections employee, Tom,  has given me the following tasks t
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+- There were 369,711 votes cast in the election.
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
