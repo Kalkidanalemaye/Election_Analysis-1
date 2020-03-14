@@ -42,7 +42,9 @@ The analysis of the election show that:
     - Denver
     - Jefferson
    - The turnout of each county were:
+   
     - Arapahoe got 24,801 voters which is 6.7% voter turnout rate.
     - Denver got 306,055 voters which is 82.8% voter turnout rate.
     - Jefferson got 38,855 voters which is 10.5% voter turnout rate.
+    
    - The county with the largest voter turnout is Denver.
