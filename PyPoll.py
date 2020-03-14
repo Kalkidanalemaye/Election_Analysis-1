@@ -50,21 +50,21 @@ with open(file_to_load) as elecion_data:
         for candidate in candidate_votes:
             # Retrieve vote count and percentage.
             votes = candidate_votes[candidate]
-            vote_pecentage = float(votes) / float(total_votes)*100
+            vote_percentage = float(votes) / float(total_votes)*100
             # Print each candidate, their voter count, and percentage to the
             # terminal. 
             candidate_results = (
-                f"{candidate}: {vote_pecentage:.1f}% ({votes:,})\n")
+                f"{candidate}: {vote_percentage:.1f}% ({votes:,})\n")
 
             # Print each candidate, their voter count, and percentage to the terminal.
             print(candidate_results)
             # Save the candidate results to our text file.
             txt_file.write(candidate_results)
             # Determine winnign vote count, winning percentage, and candidate.
-            if (votes > winning_count) and (vote_pecentage > winning_percentage):
+            if (votes > winning_count) and (vote_percentage > winning_percentage):
                 winning_count = votes
                 winning_candidate = candidate
-                winning_percentage = vote_pecentage               
+                winning_percentage = vote_percentage               
         # To do: print out the winning candidate, vote count and percentage to
         # terminal
         winning_candidate_summary = (
