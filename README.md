@@ -11,7 +11,7 @@ A Colarado Board of Elections employee, Tom,  has given me the following tasks t
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code, 1.38.1
+- Software: Python 3.7.6, Visual Studio Code, 1.43
 
 ## Summary
 The analysis of the election show that:
