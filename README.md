@@ -40,7 +40,7 @@ The analysis of the election show that:
   - The counties were:
     - Arapahoe
     - Denver
-    -Jefferson
+    - Jefferson
    - The turnout of each county were:
     - Arapahoe got 24,801 voters which is 6.7% voter turnout rate.
     - Denver got 306,055 voters which is 82.8% voter turnout rate.
