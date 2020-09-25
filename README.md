@@ -28,7 +28,11 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
   ## Background 
-  
+  Because not everyone has voted in this election, I will confirm the voter turnout for each county. In this project, I determined the number of votes that were cast from each     county and the percentage of votes each county contributed to the election.
+
+To help Seth and Tom, you need to use for loops and conditional statements to calculate the voter turnout for each county as well as the percentage of votes each county contributed to the election. Then, determine which county had the largest turnout. Save the results to  election_results.txt with your previous election analysis results. To test your code, make sure you also print your results to the output terminal.
+
+
   ## Challenge Overview
   1. Calculate the total number of voters.
   2. Add the list of counties.
