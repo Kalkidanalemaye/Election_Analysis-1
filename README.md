@@ -13,7 +13,7 @@ A Colarado Board of Elections employee, Tom,  has given me the following tasks t
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code, 1.43
 
-## Summary
+## Dataset Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
