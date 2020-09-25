@@ -31,7 +31,7 @@ The analysis of the election show that:
   Because not everyone has voted in this election, I will confirm the voter turnout for each county. In this project, I determined the number of votes that were cast from each     county and the percentage of votes each county contributed to the election.
 
 First, I used for loops and conditional statements to calculate the voter turnout for each county as well as the percentage of votes each county contributed to the election. Then, determined which county had the largest turnout. 
-The results to  election_results.txt with your previous election analysis results. 
+The results were saved to election_results.txt with the previous election analysis results. 
 
   ## Challenge Assignment Overview
   1. Calculate the total number of voters.
